@@ -1,0 +1,93 @@
+body {
+  background-color: purple;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: rgb(254, 237, 239);
+  box-shadow: 0 6px 4px -4px black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: sticky;
+}
+
+.title {
+  font-family: "Lobster", cursive;
+  font-size: 50px;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  color: palevioletred;
+  text-align: center;
+}
+
+.gif_love {
+  width: 300px;
+  height: 200px;
+}
+
+.container {
+  max-width: 1300px;
+  max-height: 100%;
+  margin: 0 auto;
+  background-color: white;
+}
+
+.main_content {
+  padding: 0 20px 0 20px;
+  box-shadow: 0 2px 4px black;
+}
+
+.gif {
+  display: flex;
+  justify-content: space-between;
+}
+
+.gif_gif {
+  display: block;
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+}
+
+.text {
+  text-indent: 30px;
+  font-family: "Cormorant Infant", serif;
+  margin: 0 0 20px 0;
+  font-size: 30px;
+  text-align: justify;
+  color: brown;
+}
+
+.text_one {
+  text-indent: 30px;
+  font-family: "Cormorant Infant", serif;
+  margin: 0 0 20px 0;
+  font-size: 30px;
+  text-align: justify;
+  color: red;
+}
+
+.text_two {
+  text-indent: 30px;
+  font-family: "Cormorant Infant", serif;
+  margin: 0 0 20px 0;
+  font-size: 30px;
+  text-align: end;
+  color: purple;
+}
+
+a {
+  font-family: "Lobster", cursive;
+  color: palevioletred;
+  font-size: 20px;
+  display: block;
+  text-align: center;
+}

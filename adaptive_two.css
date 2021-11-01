@@ -1,0 +1,40 @@
+@media (max-width: 450px) {
+  .header {
+    display: block;
+    padding: 0 0 0 0;
+  }
+
+  .gif_love {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+  }
+
+  .container {
+    max-width: 390px;
+  }
+
+  .text {
+    text-align: justify;
+  }
+
+  .text_one {
+    text-align: justify;
+  }
+
+  .text_two {
+    text-align: end;
+  }
+
+  .gif {
+    display: block;
+  }
+
+  .gif_gif {
+    display: block;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+  }
+}
